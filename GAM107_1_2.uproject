@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EEBA2443-461F-44F3-F24B-F98293BE59F7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GAM107_1_2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
